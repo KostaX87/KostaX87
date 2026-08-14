@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Kosta 👋
 
-<!--
-**KostaX87/KostaX87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Web3 enthusiast, developer, and crypto researcher exploring decentralized technologies and smart contracts.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Languages:** JavaScript, HTML/CSS, Python, Solidity
+* **Tools & Platforms:** Git, GitHub, VS Code, Node.js
+* **Web3 Ecosystems:** Ethereum, Starknet, Linea, Base
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+* ⚡ Learning everyday about blockchain and DeFi protocols
+* 🔭 Currently working on personal decentralized applications (dApps)
+* 💬 Ask me about Web3 integration, airdrop hunting, and smart contract basics
+
+---
+*“The best way to predict the future is to invent it.”*
