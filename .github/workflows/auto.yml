@@ -1,0 +1,29 @@
+name: Auto Profile Activity
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Copy files
+      uses: actions/checkout@v3
+
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+
+    - name: Run script
+      run: node update.js
+
+    - name: Push changes
+      run: |
+        git config --global user.name "Web3-Progress-Bot"
+        git config --global user.email "bot@crypto.dev"
+        git add README.md
+        git diff-index --quiet HEAD || git commit -m "chore: ежедневно подогрел профиль цитатой [skip ci]"
+        git push
