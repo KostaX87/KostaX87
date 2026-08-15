@@ -14,3 +14,7 @@ I am a passionate Web3 enthusiast, developer, and crypto researcher exploring de
 
 ---
 *“The best way to predict the future is to invent it.”*
+
+<!-- QUOTE_START -->
+<!-- QUOTE_END -->
+
