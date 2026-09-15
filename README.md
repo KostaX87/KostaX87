@@ -18,8 +18,8 @@ I am a passionate Web3 enthusiast, developer, and crypto researcher exploring de
 <!-- QUOTE_START -->
 
 ### 💬 Web3 Мысль Дня
-> «Пока ты спишь, где-то создается новый блок в сети Ethereum.»  
-> _Обновлено: 14.09.2026_
+> «В Web3 мы доверяем коду, а не людям. Но код пишут люди, так что мы снова в тупике.»  
+> _Обновлено: 15.09.2026_
 
 <!-- QUOTE_END -->
 
