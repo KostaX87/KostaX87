@@ -18,8 +18,8 @@ I am a passionate Web3 enthusiast, developer, and crypto researcher exploring de
 <!-- QUOTE_START -->
 
 ### 💬 Web3 Мысль Дня
-> «Пока ты спишь, где-то создается новый блок в сети Ethereum.»  
-> _Обновлено: 23.09.2026_
+> «DYOR (Делай собственное исследование) — главное правило, которое все игнорируют.»  
+> _Обновлено: 24.09.2026_
 
 <!-- QUOTE_END -->
 
